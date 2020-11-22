@@ -27,5 +27,5 @@ defmodule Nqcc.MixProject do
     ]
   end
 end
-# prueba de escritura
-#Hola soy Cesar 
+#Hola soy estudiante de la FI
+#Pruebas sin comer
